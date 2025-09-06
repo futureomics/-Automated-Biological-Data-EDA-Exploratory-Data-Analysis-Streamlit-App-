@@ -1,4 +1,4 @@
-# Automated Biological Data (EDA) Exploratory Data Analysis Streamlit App
+# Automated Biological Data (EDA) Exploratory Data Analysis using Streamlit App
 🧬 Automated Biological Data EDA (Exploratory Data Analysis) (Streamlit App). Explore the generated plots and insights interactively.
 
 This project provides an interactive **Streamlit app** for automated exploratory data analysis (EDA) of biological datasets.  
@@ -62,4 +62,9 @@ Explore the generated plots and insights interactively.
 
 
 https://github.com/user-attachments/assets/2bcdc2ba-5fc9-4491-95b6-93ad1add54f6
+
+
+
+https://www.youtube.com/@Bioinformatics_Made_Easy
+
 
